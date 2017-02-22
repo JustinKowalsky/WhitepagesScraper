@@ -1,0 +1,13 @@
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\WhitepagesScraper\WhitepagesScraper\WhitepagesScraper\bin\Debug\WhitepagesScraper.exe.config
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\WhitepagesScraper\WhitepagesScraper\WhitepagesScraper\bin\Debug\WhitepagesScraper.exe
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\WhitepagesScraper\WhitepagesScraper\WhitepagesScraper\bin\Debug\WhitepagesScraper.pdb
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\WhitepagesScraper\WhitepagesScraper\WhitepagesScraper\bin\Debug\WebDriver.dll
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\WhitepagesScraper\WhitepagesScraper\WhitepagesScraper\bin\Debug\WebDriver.Support.dll
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\WhitepagesScraper\WhitepagesScraper\WhitepagesScraper\bin\Debug\WebDriver.xml
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\WhitepagesScraper\WhitepagesScraper\WhitepagesScraper\bin\Debug\WebDriver.Support.xml
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\WhitepagesScraper\WhitepagesScraper\WhitepagesScraper\obj\Debug\WhitepagesScraper.csprojResolveAssemblyReference.cache
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\WhitepagesScraper\WhitepagesScraper\WhitepagesScraper\obj\Debug\WhitepagesScraper.Form1.resources
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\WhitepagesScraper\WhitepagesScraper\WhitepagesScraper\obj\Debug\WhitepagesScraper.Properties.Resources.resources
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\WhitepagesScraper\WhitepagesScraper\WhitepagesScraper\obj\Debug\WhitepagesScraper.csproj.GenerateResource.Cache
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\WhitepagesScraper\WhitepagesScraper\WhitepagesScraper\obj\Debug\WhitepagesScraper.exe
+C:\Users\Justin\Documents\Visual Studio 2015\Projects\WhitepagesScraper\WhitepagesScraper\WhitepagesScraper\obj\Debug\WhitepagesScraper.pdb
